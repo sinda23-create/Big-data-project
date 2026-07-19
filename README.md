@@ -3,7 +3,6 @@
 
 Projet de groupe, cours Big Data, EDC Paris Business School, 2026.
 
-Realise avec Stephanie Abi Saab et Youcef Hadj.
 
 ## Probleme
 
